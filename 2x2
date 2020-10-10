@@ -1,0 +1,104 @@
+<div class="container">
+  <div class="box">
+    <h1>
+    Menu
+    </h1>
+  </div>
+  <div class="box">
+    <h1>
+    Price
+  </h1>
+  </div>
+  <div class="box">
+    <p> 
+      <b>Sandwiches</b>
+      <br>Crab Cake
+      <br>Beef Brisket
+      <br>Fried Chicken
+      <br>Fried Fish(Whiting)
+      <br>Pulled Chicken
+      <br>Pulled Pork
+      <br>Rib(Pork, 3 bones)<br>
+      <br>
+      <b>Platters</b>
+      <br>Crab Cake
+      <br>Beef Brisket
+      <br>Fried Chicken
+      <br>Fried Fish
+      <br>Pulled Chicken
+      <br>Pulled Pork
+      <br>Rib (Pork, 5 bones)<br>
+      <br>
+      <b>Baskets</b>
+      <br>6 Chicken Wingetts
+      <br>4 Chicken Tenders
+      <br>10 Fried Cod Fish<br>
+      <br>
+      <b>Slabs</b>
+      <br>1/2 of Slab
+      <br>Whole Slab<br>
+      <br>
+      <b>Sides</b> $3.00 Each
+      <br>Baked Beans
+      <br>Cole Slaw
+      <br>Collard Greens
+      <br>Green Beans
+      <br>Hush Puppies
+      <br>Macaroni & Cheese
+      <br>Macaroni Salad
+      <br>Potato Salad
+      <br>Steak Fries<br>
+      <br>
+      <b>Drinks</b>
+      <br>Bottled Soda
+      <br>Bottled Water
+      <br>Gatorade
+    </p>
+  </div>
+  <div class="box">
+    <p>
+      <b>Sandwiches</b>
+      <br>$14.00
+      <br>$9.00
+      <br>$7.00
+      <br>$8.00
+      <br>$7.00
+      <br>$7.00
+      <br>$9.00<br>
+      <br>
+      <b>Platters</b>
+      <br>$25.00
+      <br>$18.00
+      <br>$14.00
+      <br>$14.00
+      <br>$14.00
+      <br>$15.00
+      <br>$18.00<br>
+      <br>
+      <b>Baskets</b>
+      <br>$10.00
+      <br>$10.00
+      <br>$10.00<br>
+      <br>
+      <b>Slabs</b>
+      <br>$15.00
+      <br>$25.00<br>
+      <br>
+      <b>Sides</b> $3.00 Each
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br><br>
+      <br>
+      <b>Drinks</b>
+      <br>$2.00
+      <br>$1.00
+      <br>$3.00
+    </p>
+  </div>
+</div>
